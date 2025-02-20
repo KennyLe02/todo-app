@@ -1,0 +1,8 @@
+play
+find cat
+tennis practice
+study leetcode
+download obsidian
+make coffee
+wash car
+Master python
